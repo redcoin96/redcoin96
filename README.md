@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
 
 #### 🌱sns link
-<img src="https://img.shields.io/badge/Blog-9999FF?style=flat-square&logo=Velog&logoColor=white"/> <img src="https://img.shields.io/badge/tnsdlznf23@naver.com-FF61F6?style=flat-square&logo=Mail.Ru&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-9999FF?style=flat-square&logo=Velog&logoColor=white"/> <img src="https://img.shields.io/badge/tnsdlznf23@naver.com-FC60A8?style=flat-square&logo=Mail.Ru&logoColor=white"/>
   
 
 #### 🌱Frontend skills
